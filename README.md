@@ -30,3 +30,16 @@ This AI Agent leverages the **Qwen 2.5 3B** language model, a powerful 3-billion
 ```bash
 git clone https://github.com/BVISHNU78/AI-AGENT-.git
 cd AI-AGENT-
+📚 How It Works
+Ollama runs the Qwen 2.5 3B model locally for low-latency inference
+
+The agent communicates with Ollama’s API/CLI to send prompts and receive completions
+
+Responses are parsed and used to execute intelligent actions
+
+🚧 Future Work
+GUI interface for smoother interaction
+
+Expanded API integrations
+
+Multi-modal input support
